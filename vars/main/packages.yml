@@ -1,0 +1,14 @@
+---
+# Install packages
+_atom_packages_install:
+  all: []
+  CentOS_7:
+    - "https://atom.io/download/rpm"
+  RedHat_7:
+    - "https://atom.io/download/rpm"
+  CentOS_8:
+    - "https://atom.io/download/rpm"
+  RedHat_8:
+    - "https://atom.io/download/rpm"
+  Fedora_31:
+    - "https://atom.io/download/rpm"

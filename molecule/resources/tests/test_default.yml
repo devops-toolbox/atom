@@ -1,0 +1,10 @@
+# Molecule managed
+---
+file:
+  /usr/bin/atom:
+    exists: true
+    owner: root
+    group: root
+package:
+  atom:
+    installed: true
