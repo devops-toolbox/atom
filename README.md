@@ -8,10 +8,10 @@ atom
 Ansible galaxy:
 ---------------
 
-[https://galaxy.ansible.com/devops-toolbox.atom](https://galaxy.ansible.com/devops-toolbox.atom)
+[https://galaxy.ansible.com/devopstoolbox.atom](https://galaxy.ansible.com/devopstoolbox.atom)
 
 ```bash
-ansible-galaxy install devops-toolbox.atom
+ansible-galaxy install devopstoolbox.atom
 ```
 
 Requirements
@@ -40,7 +40,7 @@ Example Playbook
   tasks:
     - name: atom is configured
       import_role:
-        name: devops-toolbox.atom
+        name: devopstoolbox.atom
       tags: atom
 ```
 
@@ -52,7 +52,7 @@ MIT
 Author Information
 ------------------
 
-- [Mihai Criveti](https://www.linkedin.com/in/devops-toolbox.)
+- [Mihai Criveti](https://www.linkedin.com/in/devopstoolbox.)
 
 TODO
 ----
